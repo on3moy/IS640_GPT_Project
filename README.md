@@ -87,4 +87,4 @@ Students will work in groups to develop and fine-tune a basic LLM on a dataset o
 - Save generated text of 300 - 500 tokens to a file called milestone8.txt 
 
 ## Final Presentation
-- Present the model’s performance, the generated text, and the challenges faced.S
+- Present the model’s performance, the generated text, and the challenges faced.
